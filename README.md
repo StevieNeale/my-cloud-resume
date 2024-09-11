@@ -31,3 +31,5 @@ Security Mod, what I did and how it is an improvement over basic challenge requi
 Configured DNSSEC to secure DNS from man-in-the-middle and spoofing attacks. I was able to enable DNSSEC and establish a chain of trust through AWS because I purchased the domain through Route 53. This wasn't especially challenging, but taking this extra measure secures the site against threats. 
 
 ![Screenshot 2024-08-06 200008](https://github.com/user-attachments/assets/e72fd60a-57de-412c-8484-b4836541c2c1)
+
+Part 2:
